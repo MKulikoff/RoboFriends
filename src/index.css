@@ -5,9 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgb(81, 70, 164), rgb(11, 229, 203));
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.SearchBox { 
+	margin-top: 2000px; 
+	margin-bottom: 500px;
+ }
+
+
